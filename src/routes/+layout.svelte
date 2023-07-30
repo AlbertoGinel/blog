@@ -19,6 +19,8 @@
 		property="og:image"
 		content="https://cdnb.artstation.com/p/assets/images/images/056/598/487/large/blanca-maeso-793c6688-f8b1-4a65-9d57-c6294bc08a1f.jpg?1669657042"
 	/>
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
 	<!-- Open Graph image URL -->
 </svelte:head>
 
