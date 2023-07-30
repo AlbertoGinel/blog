@@ -13,11 +13,14 @@
 
 <!-- svelte-ignore a11y-img-redundant-alt -->
 <svelte:head>
-	<meta property="og:title" content="Your Title Here" />
-	<meta property="og:description" content="Your Description Here" />
+	<meta property="og:title" content="FakeGame" />
+	<meta
+		property="og:description"
+		content="Dominion 3:03:00 am 31/07/23 Monday in 13 hours ⌛1:00 👥 0/2"
+	/>
 	<meta
 		property="og:image"
-		content="https://cdnb.artstation.com/p/assets/images/images/056/598/487/large/blanca-maeso-793c6688-f8b1-4a65-9d57-c6294bc08a1f.jpg?1669657042"
+		content="https://firebasestorage.googleapis.com/v0/b/undeadontime.appspot.com/o/gamesImages%2F15263e0e-45b3-4d26-b8ee-6d6cfbc588c5.png?alt=media&token=745cbeec-2dcc-4719-b7cf-0a987363dff0"
 	/>
 	<meta property="og:url" content="Your URL Here" />
 	<meta property="og:site_name" content="Your Site Name Here" />
