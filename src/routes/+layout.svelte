@@ -13,16 +13,15 @@
 
 <!-- svelte-ignore a11y-img-redundant-alt -->
 <svelte:head>
-	<title>Game Board</title>
-	<meta property="og:title" content="La pagina!" />
-	<meta property="og:site_name" content="Ven por aqui" />
-	<meta property="og:url" content="https://blog-red-nine-44.vercel.app" />
-	<meta property="og:description" content="Pero que maravilla es esta??" />
-	<meta property="og:type" content="product" />
+	<meta property="og:title" content="Your Title Here" />
+	<meta property="og:description" content="Your Description Here" />
 	<meta
 		property="og:image"
 		content="https://cdnb.artstation.com/p/assets/images/images/056/598/487/large/blanca-maeso-793c6688-f8b1-4a65-9d57-c6294bc08a1f.jpg?1669657042"
 	/>
+	<meta property="og:url" content="Your URL Here" />
+	<meta property="og:site_name" content="Your Site Name Here" />
+	<meta property="og:type" content="website" />
 </svelte:head>
 
 <Heading />
