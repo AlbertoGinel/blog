@@ -22,6 +22,9 @@
 		property="og:image"
 		content="https://firebasestorage.googleapis.com/v0/b/undeadontime.appspot.com/o/gamesImages%2F15263e0e-45b3-4d26-b8ee-6d6cfbc588c5.png?alt=media&token=745cbeec-2dcc-4719-b7cf-0a987363dff0"
 	/>
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+
 	<meta property="og:url" content="https://kit.svelte.dev/docs/adapters" />
 	<meta property="og:site_name" content="Undead On Time" />
 	<meta property="og:type" content="website" />
