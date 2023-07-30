@@ -16,7 +16,7 @@
 	<meta property="og:title" content="FakeGame" />
 	<meta
 		property="og:description"
-		content="Dominion\n3:03:00 am\nMonday 31/07/23\n⌛1:00 in 13 hours\n👥 0/2"
+		content="Dominion • 3:03:00 am • Monday 31/07/23 •⌛1:00 in 13 hours • 👥 0/2"
 	/>
 	<meta
 		property="og:image"
