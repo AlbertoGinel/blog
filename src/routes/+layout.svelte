@@ -12,8 +12,12 @@
 </script>
 
 <svelte:head>
-	<title>Blog</title>
+	<title>Game Board</title>
 	<link rel="icon" href="https://fav.farm/🔥" />
+	<img
+		src="https://cdnb.artstation.com/p/assets/images/images/056/598/487/large/blanca-maeso-793c6688-f8b1-4a65-9d57-c6294bc08a1f.jpg?1669657042"
+		alt="Your image description"
+	/>
 </svelte:head>
 
 <Heading />
